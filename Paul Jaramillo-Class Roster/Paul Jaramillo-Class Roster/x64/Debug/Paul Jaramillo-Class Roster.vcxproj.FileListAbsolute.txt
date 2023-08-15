@@ -1,0 +1,3 @@
+C:\Users\jaram\OneDrive\Documents\WGU\Paul Jaramillo-Class Roster\Paul Jaramillo-Class Roster\x64\Debug\Paul Jaramillo-Class Roster.vcxproj.AssemblyReference.cache
+C:\Users\jaram\OneDrive\Documents\WGU\Paul Jaramillo-Class Roster\Paul Jaramillo-Class Roster\x64\Debug\Paul Jaramillo-Class Roster.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\jaram\OneDrive\Documents\WGU\Paul Jaramillo-Class Roster\Paul Jaramillo-Class Roster\x64\Debug\Paul Jaramillo-Class Roster.exe

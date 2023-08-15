@@ -1,0 +1,82 @@
+﻿Environment at start of build:
+ALLUSERSPROFILE = C:\ProgramData
+APPDATA = C:\Users\jaram\AppData\Roaming
+CommonProgramFiles = C:\Program Files\Common Files
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPLUS_InstallRoot = 
+COMPLUS_Version = 
+COMPUTERNAME = JARAMILLO-PC
+ComSpec = C:\WINDOWS\system32\cmd.exe
+DriverData = C:\Windows\System32\Drivers\DriverData
+ForceIdentityAuthenticationType = Embedded
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING = Default
+GDAL_DATA = C:\Program Files\PostgreSQL\14\gdal-data
+HOMEDRIVE = C:
+HOMEPATH = \Users\jaram
+LOCALAPPDATA = C:\Users\jaram\AppData\Local
+LOGONSERVER = \\JARAMILLO-PC
+MSBuildLoadMicrosoftTargetsReadOnly = true
+NUMBER_OF_PROCESSORS = 8
+OneDrive = C:\Users\jaram\OneDrive
+OneDriveConsumer = C:\Users\jaram\OneDrive
+OnlineServices = Online Services
+OS = Windows_NT
+Path = C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\jaram\AppData\Local\Microsoft\WindowsApps;;C:\Users\jaram\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jaram\AppData\Roaming\npm;C:\Users\jaram\.dotnet\tools
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PkgDefApplicationConfigFile = C:\Users\jaram\AppData\Local\Microsoft\VisualStudio\17.0_f8f9da2d\devenv.exe.config
+platformcode = KV
+POSTGIS_ENABLE_OUTDB_RASTERS = 1
+POSTGIS_GDAL_ENABLED_DRIVERS = GTiff PNG JPEG GIF XYZ DTED USGSDEM AAIGrid
+PROCESSOR_ARCHITECTURE = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 7e05
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PROJ_LIB = C:\Program Files\PostgreSQL\14\share\contrib\postgis-3.2\proj
+PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC = C:\Users\Public
+RegionCode = NA
+ServiceHubLogSessionKey = 9355A8C2
+SESSIONNAME = Console
+SignInWithHomeTenantOnly = False
+SystemDrive = C:
+SystemRoot = C:\WINDOWS
+TEMP = C:\Users\jaram\AppData\Local\Temp
+ThreadedWaitDialogDpiContext = -4
+TMP = C:\Users\jaram\AppData\Local\Temp
+USERDOMAIN = JARAMILLO-PC
+USERDOMAIN_ROAMINGPROFILE = JARAMILLO-PC
+USERNAME = jaram
+USERPROFILE = C:\Users\jaram
+VisualStudioDir = C:\Users\jaram\OneDrive\Documents\Visual Studio 2022
+VisualStudioEdition = Microsoft Visual Studio Community 2022
+VisualStudioVersion = 17.0
+VS140COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+VSAPPIDDIR = C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\
+VSAPPIDNAME = devenv.exe
+VSLANG = 1033
+VSLS_SESSION_KEEPALIVE_INTERVAL = 0
+VSSKUEDITION = Community
+windir = C:\WINDOWS
+
+  main.cpp
+  roster.cpp
+C:\Users\jaram\OneDrive\Documents\WGU\Paul Jaramillo-Class Roster\Paul Jaramillo-Class Roster\roster.cpp(7,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jaram\OneDrive\Documents\WGU\Paul Jaramillo-Class Roster\Paul Jaramillo-Class Roster\roster.cpp(11,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jaram\OneDrive\Documents\WGU\Paul Jaramillo-Class Roster\Paul Jaramillo-Class Roster\roster.cpp(15,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jaram\OneDrive\Documents\WGU\Paul Jaramillo-Class Roster\Paul Jaramillo-Class Roster\roster.cpp(19,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jaram\OneDrive\Documents\WGU\Paul Jaramillo-Class Roster\Paul Jaramillo-Class Roster\roster.cpp(23,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jaram\OneDrive\Documents\WGU\Paul Jaramillo-Class Roster\Paul Jaramillo-Class Roster\roster.cpp(24,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jaram\OneDrive\Documents\WGU\Paul Jaramillo-Class Roster\Paul Jaramillo-Class Roster\roster.cpp(27,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jaram\OneDrive\Documents\WGU\Paul Jaramillo-Class Roster\Paul Jaramillo-Class Roster\roster.cpp(28,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jaram\OneDrive\Documents\WGU\Paul Jaramillo-Class Roster\Paul Jaramillo-Class Roster\roster.cpp(31,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jaram\OneDrive\Documents\WGU\Paul Jaramillo-Class Roster\Paul Jaramillo-Class Roster\roster.cpp(32,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jaram\OneDrive\Documents\WGU\Paul Jaramillo-Class Roster\Paul Jaramillo-Class Roster\roster.cpp(35,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jaram\OneDrive\Documents\WGU\Paul Jaramillo-Class Roster\Paul Jaramillo-Class Roster\roster.cpp(36,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+LINK : fatal error LNK1168: cannot open C:\Users\jaram\OneDrive\Documents\WGU\Paul Jaramillo-Class Roster\Paul Jaramillo-Class Roster\x64\Debug\Paul Jaramillo-Class Roster.exe for writing
